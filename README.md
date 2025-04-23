@@ -27,7 +27,7 @@
 # 🏫 *Education*:
 
 ### **Bhai Gurdas Institute of Engineering and Technology, Sangrur.**</br>
-2020-Present - Bachelor of Technology in Computer Science and Engineering.
+2020-2024 - Bachelor of Technology in Computer Science and Engineering.
 
 # ⚙️ *Skills*:
 
